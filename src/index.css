@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+/* text-align: center; */
+
+}
+
+div{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+
+  background-color: burlywood;
+  display: inline;
+  padding: 15px;
+  border-radius: 10px;
+}
